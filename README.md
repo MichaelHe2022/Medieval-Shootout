@@ -25,5 +25,3 @@ First player to 3 points wins. Once a player has got 3 points, end message shoul
 
 How to use the program:
 Turns happen with both players pressing a button AT THE SAME TIME.  You can press the down button to check the score at any time, but make sure that when you are conducting a turn that both players simultaneously press a button (does not include down button).
-
-LESSONS WE LEARNED: We learned a lot of C syntax and how to design a project through basic steps such as flowcharts, algorithms, and converting our flowcharts to code. We also got better at working collaboratively. We learned specifically how to wirelessly interact with button commands.
